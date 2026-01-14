@@ -131,6 +131,9 @@ The application provides the following API endpoints:
     *   Query Parameters: `difficulty` (e.g., 'medium'), `limit` (e.g., 20)
     *   Response (JSON): Array of question objects.
 
+## Sample of generated question paper
+![Screenshot of sample question paper generated using the python script](./assets/output.png)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
